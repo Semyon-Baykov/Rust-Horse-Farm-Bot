@@ -1,4 +1,4 @@
-# Rust-Horse-Poop-Bot
+# Rust-Horse-Farm-Bot
 A simple Discord bot that has the ability to calculate various things regarding the video game Rust and its fertilizer mechanic.
 
 # Here is what it can do:
